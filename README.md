@@ -14,7 +14,6 @@ NOTE:
 If any other email or password is used, the login button will not transition you to the home screen.
 
 ## :man_technologist:Programmers
-*****  
 Joshua Baban  
 Kia Sherrice Abancio
 
