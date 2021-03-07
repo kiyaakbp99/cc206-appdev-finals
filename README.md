@@ -13,7 +13,7 @@ Have fun! Someone is waiting for you on the home screen!!
 NOTE:
 If any other email or password is used, the login button will not transition you to the home screen.
 
-## :man_technologist:Programmers
+## :man_technologist:Programmer
 Joshua Baban  
 Kia Sherrice Abancio
 
